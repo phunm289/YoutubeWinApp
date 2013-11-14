@@ -1,0 +1,2 @@
+youtube.MySliderUI
+youtube.SpecialThumbIcon
